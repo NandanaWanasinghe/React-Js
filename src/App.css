@@ -17,3 +17,8 @@
   object-fit: contain;
   margin-top: 20px;
 }
+.Main-container .Main-details{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
